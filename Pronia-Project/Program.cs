@@ -37,7 +37,7 @@ namespace Pronia_Project
             {
                 endpoints.MapControllerRoute(
                     name: "Admin",
-                    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
 
                 endpoints.MapControllerRoute(
                     name: "default",

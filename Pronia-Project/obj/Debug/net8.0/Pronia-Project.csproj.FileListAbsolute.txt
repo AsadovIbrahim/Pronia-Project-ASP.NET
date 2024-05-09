@@ -250,3 +250,4 @@ C:\Users\ASUS\source\repos\Pronia-Project\Pronia-Project\bin\Debug\net8.0\runtim
 C:\Users\ASUS\source\repos\Pronia-Project\Pronia-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\ASUS\source\repos\Pronia-Project\Pronia-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ASUS\source\repos\Pronia-Project\Pronia-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ASUS\source\repos\Pronia-Project\Pronia-Project\obj\Debug\net8.0\Pronia-Project.sourcelink.json
